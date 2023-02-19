@@ -8,6 +8,6 @@ This repository includes all the appendix figures in the manuscript "Characteris
 3. Sample autocorrelation functions and their 95% confidence intervals for the meander's monthly position, width and speed trends.
 
 "Tests in Meander Position Identification" includes the tests in meander position identification, which is divided into:
-1. relative threshold value tests,
-2. sum period value tests,
+1. Relative threshold value tests,
+2. Sum period value tests,
 3. 'Jumps' in the meander's monthly trajectories.
