@@ -8,5 +8,5 @@ Appendix A includes the tests in meander position identification, which is divid
 3. 'Jumps' in the meander's monthly trajectories.
 
 Appendix B includes the statistical significance tests for the meander's latitude position, width and geostrophic current speed trends, which is divided into:
-1. Rolling-mean year based trends
+1. Rolling-mean year based trends,
 2. Sample autocorrelation functions and their 95% confidence intervals for the meander's monthly position, width and speed trends.
