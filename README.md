@@ -1,6 +1,6 @@
 # campbell-plateau-meander-analysis
 
-This repository includes all the detailed figures in the appendix of the manuscript "Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993-2020":
+This repository includes all the detailed figures in the appendix of the paper "Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993-2020" on Journal of Geophysical Research: Oceans:
 
 "Tests in Meander Position Identification" includes the main tests conducted during the identification of the meander's position, which is divided into:
 1. Sum period value tests,
