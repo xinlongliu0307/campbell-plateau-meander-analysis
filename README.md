@@ -2,10 +2,8 @@
 
 This repository provides supporting figures and analyses for the paper:  
 
-**“Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993–2020”**  
-*Journal of Geophysical Research: Oceans*  
-by Xinlong Liu, Amelie Meyer, and Christopher C. Chapman  
-[https://doi.org/10.1029/2023JC019876](https://doi.org/10.1029/2023JC019876)  
+**“Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993–2020”**, *Journal of Geophysical Research: Oceans*  
+by Xinlong Liu, Amelie Meyer, and Christopher C. Chapman
 
 ---
 
