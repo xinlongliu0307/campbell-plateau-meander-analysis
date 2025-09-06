@@ -1,12 +1,23 @@
-# campbell-plateau-meander-analysis
+# Campbell Plateau Meander Analysis  
 
-This repository includes all the detailed figures in the appendix of the paper "Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993-2020" on Journal of Geophysical Research: Oceans:
+This repository provides supporting figures and analyses for the paper:  
 
-"Tests in Meander Position Identification" includes the main tests conducted during the identification of the meander's position, which is divided into:
-1. Sum period value tests,
-2. 'Jumps' in the meander's monthly trajectories.
+**“Characteristics and Trends of the Campbell Plateau Meander in the Southern Ocean: 1993–2020”**  
+*Journal of Geophysical Research: Oceans*  
+by Xinlong Liu, Amelie Meyer, and Christopher C. Chapman  
+[https://doi.org/10.1029/2023JC019876](https://doi.org/10.1029/2023JC019876)  
 
-"Meander Trends Analysis" includes the statistical analysis for the meander's latitude position, width and geostrophic current speed trends based on both the original monthly time series and the smoothed rolling-mean year data, which is divided into:
-1. Rolling-mean year based trends of the meander's position, width and speed,
-2. Sample autocorrelation functions of the meander's monthly position, width and speed trends,
-3. Sample autocorrelation functions and their 95% confidence intervals of the meander's monthly position, width and speed trends.
+---
+
+## Repository Structure  
+
+### 1. Tests in Meander Position Identification  
+This section documents the statistical tests used to evaluate and revise the identification of the meander’s position. It includes:  
+- **Sum-period value tests** – quality checks on the temporal consistency of the meander detection.  
+- **Trajectory ‘jump’ tests** – identification and handling of discontinuities in the meander’s monthly position.  
+
+### 2. Meander Trends Analysis  
+This section presents the statistical analysis of the meander’s characteristics—latitude position, width, and geostrophic current speed—using both raw monthly time series and smoothed rolling-year means. It includes:  
+- **Rolling-year mean trends** – long-term changes in meander position, width, and speed.  
+- **Sample autocorrelation functions** – assessment of temporal persistence in the monthly records.  
+- **Confidence interval testing** – uncertainty analysis of autocorrelation functions at the 95% confidence level.  
