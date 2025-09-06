@@ -18,6 +18,6 @@ This section presents the statistical analysis of the meander’s characteristic
 - **Confidence interval testing** – uncertainty analysis of autocorrelation functions at the 95% confidence level.  
 
 ### 2. Tests in Meander Position Identification  
-This section documents the statistical tests used to evaluate and revise the identification of the meander’s position. It includes:  
-- **Sum-period value tests** – quality checks on the temporal consistency of the meander detection.  
+This section documents the statistical tests used to evaluate and revise the identification of the meander’s position. It includes:
 - **Trajectory ‘jump’ tests** – identification and handling of discontinuities in the meander’s monthly position.
+- **Sum-period value tests** – quality checks on the temporal consistency of the meander detection.
